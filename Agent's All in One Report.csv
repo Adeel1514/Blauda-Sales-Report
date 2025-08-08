@@ -1,0 +1,661 @@
+Month,Sales Agent,EMP ID,Assistant Managers,Shift,IP,SOK Count,Reserved Count,Total Calls,Total Talktime,Estimated SOK Profit
+1-Oct-24,Anas Asim,30016,Asif Shahab,Night,1807,1,0,829,69083,103827
+1-Oct-24,Asif Shahab,1819,Asif Shahab,Night,1671,14,0,781,70406,3110553
+1-Oct-24,Atir Abid,0,Asif Shahab,Night,1828,0,0,334,22528,0
+1-Oct-24,Ebad Ul Haque,2034,Asif Shahab,Night,1752,3,0,632,45950,440983
+1-Oct-24,Janeen Campbell,0,Asif Shahab,Night,-,1,0,0,0,0
+1-Oct-24,Aamir Ahmed,30204,Asif Shahab,Night,1659,0,0,0,0,0
+1-Oct-24,Omer Ansari,30037,Asif Shahab,Night,1559,1,0,162,19863,237827
+1-Oct-24,Salman Mubarak,30141,Asif Shahab,Night,1803,0,0,103,7640,0
+1-Oct-24,Syed Abid Ali Shah,2123,Asif Shahab,Night,1873,3,0,456,43944,881594
+1-Oct-24,Abeeha Ali,2202,Atufa Arshad,Morning,1552,1,0,485,32822,187771
+1-Oct-24,Aqib Aqeel,2136,Atufa Arshad,Morning,1892,6,0,206,42846,729740
+1-Oct-24,Azeem baig,2098,Atufa Arshad,Morning,1817,0,0,456,36202,0
+1-Oct-24,Damral Pearl,0,Atufa Arshad,Morning,1512,0,0,0,0,0
+1-Oct-24,Ghania Umer,30213,Atufa Arshad,Morning,1674,0,0,659,45875,0
+1-Oct-24,Huma Meer,2163,Atufa Arshad,Morning,1521,1,0,645,76904,357488
+1-Oct-24,Zoha Amir,30160,Atufa Arshad,Morning,1523,1,0,0,0,103879
+1-Oct-24,Abdullah,2029,Daim Tariq,Night,1747,13,0,152,14532,403375
+1-Oct-24,Ashhad Bin Saad,2141,Daim Tariq,Night,1900,0,0,567,100753,0
+1-Oct-24,Hammad Nasar,30196,Daim Tariq,Night,1533,0,0,576,35285,0
+1-Oct-24,Hassan Ali,2139,Daim Tariq,Night,1895,4,0,156,17619,310077
+1-Oct-24,Huzaifa Ali,30192,Daim Tariq,Night,1604,0,0,4,1509,0
+1-Oct-24,Mir Faizan Ali,1982,Daim Tariq,Night,1701,5,0,357,36023,225990
+1-Oct-24,Moiz Ahmed Siddiqui,2016,Daim Tariq,Night,1733,2,0,91,5741,-51259
+1-Oct-24,Osama Khan,30008,Daim Tariq,Night,1519,6,0,452,30907,472288
+1-Oct-24,Muhammad Yasir Zaki,1989,Daim Tariq,Night,1706,7,0,109,9280,884959
+1-Oct-24,Saim Kamran,0,Daim Tariq,Night,1682,0,0,0,0,0
+1-Oct-24,Ahtesham,30203,Haris Ahmed,Night,1670,0,0,356,39293,0
+1-Oct-24,Arsalan Ahmed,30151,Haris Ahmed,Night,1928,0,0,644,37931,0
+1-Oct-24,Bilal Ahmed,1837,Haris Ahmed,Night,1694,3,0,92,12992,537172
+1-Oct-24,Shijaan Ali,2206,Haris Ahmed,Night,1887,17,0,179,13791,1588537
+1-Oct-24,Jabran Shamoon,2113,Haris Ahmed,Night,1851,7,0,406,60720,628078
+1-Oct-24,Mirza Waseem,1844,Haris Ahmed,Night,1516,6,0,220,18865,947371
+1-Oct-24,Muhammad Aliyan Abid,30163,Haris Ahmed,Night,1587,0,0,0,0,0
+1-Oct-24,Behroz Khan,30085,Haris Ahmed,Night,1570,0,0,284,20357,0
+1-Oct-24,Shoaib Khan,30080,Haris Ahmed,Night,1574,4,0,205,31654,92741
+1-Oct-24,Sameer Arzan,0,Haris Ahmed,Night,1702,0,0,30,2349,0
+1-Oct-24,Shehbaz Raza,30103,Kamran Siddiqui,Night,1532,5,0,605,40897,217056
+1-Oct-24,Fatymah Iqbal,30193,Muhammad Hammad,Morning,1504,0,0,0,0,0
+1-Oct-24,Joshua Schon,30106,Muhammad Hammad,Morning,1554,3,0,723,49725,427250
+1-Oct-24,Maryam Siddiqui,1994,Muhammad Hammad,Morning,1711,15,0,52,6083,1952482
+1-Oct-24,Muhammad Shazain Khan,30095,Muhammad Hammad,Morning,1816,6,0,643,51252,572751
+1-Oct-24,Mujtaba Hassan,0,Muhammad Hammad,Morning,1638,0,0,0,0,0
+1-Oct-24,Shahzeb Ali Khan,2164,Muhammad Hammad,Morning,1710,4,0,636,65135,302212
+1-Oct-24,Syed Ashar Ali,0,Muhammad Hammad,Morning,1651,0,0,72,9017,0
+1-Oct-24,Ada Aziz,1840,Muhammad Khurshid Khan,Morning,1507,16,0,182,13467,1497833
+1-Oct-24,Moazzam Ali,30206,Muhammad Khurshid Khan,Morning,1560,0,0,0,0,0
+1-Oct-24,Mohsin Waheed,30031,Muhammad Khurshid Khan,Morning,1788,7,0,415,27576,-288932
+1-Oct-24,Nehal Ahmed,30011,Muhammad Khurshid Khan,Morning,1540,14,0,114,7901,683190
+1-Oct-24,Rana Shahbaz Tahir,30071,Muhammad Khurshid Khan,Morning,1530,2,0,245,22809,150913
+1-Oct-24,Shamiq Waseem,2154,Muhammad Khurshid Khan,Morning,1789,6,0,447,24448,705403
+1-Oct-24,Subaiyal Muhammad Aslam,30210,Muhammad Khurshid Khan,Morning,1853,0,0,0,0,0
+1-Oct-24,Yassi Asif Raza,30207,Muhammad Khurshid Khan,Morning,1639,0,0,701,49283,0
+1-Oct-24,Affan Ahmed,0,Salman Rehmani,Morning,1558,0,0,0,0,0
+1-Oct-24,Ahmed Raza 1579,30194,Salman Rehmani,Morning,1579,0,0,0,0,0
+1-Oct-24,Haniyyah Faisal,0,Salman Rehmani,Morning,1703,0,0,0,0,0
+1-Oct-24,Misbah Khan,30188,Salman Rehmani,Morning,1509,1,0,0,0,148986
+1-Oct-24,Haseeb Naushad,30051,Salman Rehmani,Morning,1561,0,0,567,62229,0
+1-Oct-24,Shayan Ansari,30179,Salman Rehmani,Morning,1529,0,0,332,41190,0
+1-Oct-24,Umar Bin Khalid,0,Salman Rehmani,Morning,1545,0,0,0,0,0
+1-Oct-24,Muhammad Usman,30164,Asif Shahab,Night,1547,0,0,0,0,0
+1-Nov-24,Anas Asim,30016,Asif Shahab,Night,1807,7,0,577,57455,1064633
+1-Nov-24,Asif Shahab,1819,Asif Shahab,Night,1671,14,0,752,77038,1485039
+1-Nov-24,Atir Abid,0,Asif Shahab,Night,1828,0,0,140,10935,0
+1-Nov-24,Ebad Ul Haque,2034,Asif Shahab,Night,1752,9,0,584,39728,536719
+1-Nov-24,Janeen Campbell,0,Asif Shahab,Night,-,0,0,0,0,0
+1-Nov-24,Aamir Ahmed,30204,Asif Shahab,Night,1659,0,0,0,0,0
+1-Nov-24,Omer Ansari,30037,Asif Shahab,Night,1559,10,0,143,14114,1021993
+1-Nov-24,Salman Mubarak,30141,Asif Shahab,Night,1803,0,0,0,0,0
+1-Nov-24,Syed Abid Ali Shah,2123,Asif Shahab,Night,1873,6,0,251,29039,801846
+1-Nov-24,Abeeha Ali,2202,Atufa Arshad,Morning,1552,7,0,588,38088,843959
+1-Nov-24,Aqib Aqeel,2136,Atufa Arshad,Morning,1892,5,0,329,54113,997978
+1-Nov-24,Azeem baig,2098,Atufa Arshad,Morning,1817,1,0,461,37136,151722
+1-Nov-24,Damral Pearl,0,Atufa Arshad,Morning,1512,0,0,0,0,0
+1-Nov-24,Ghania Umer,30213,Atufa Arshad,Morning,1674,0,0,678,42258,0
+1-Nov-24,Huma Meer,2163,Atufa Arshad,Morning,1521,3,0,701,82438,602515
+1-Nov-24,Zoha Amir,30160,Atufa Arshad,Morning,1523,0,0,0,0,0
+1-Nov-24,Abdullah,2029,Daim Tariq,Night,1747,6,0,196,19050,196994
+1-Nov-24,Ashhad Bin Saad,2141,Daim Tariq,Night,1900,0,0,924,115115,0
+1-Nov-24,Hammad Nasar,30196,Daim Tariq,Night,1533,1,0,414,30617,133503
+1-Nov-24,Hassan Ali,2139,Daim Tariq,Night,1895,9,0,121,17933,769706
+1-Nov-24,Huzaifa Ali,30192,Daim Tariq,Night,1604,0,0,0,0,0
+1-Nov-24,Mir Faizan Ali,1982,Daim Tariq,Night,1701,5,0,242,23392,180712
+1-Nov-24,Moiz Ahmed Siddiqui,2016,Daim Tariq,Night,1733,10,0,18,1281,1140989
+1-Nov-24,Osama Khan,30008,Daim Tariq,Night,1519,6,0,442,29062,27890
+1-Nov-24,Muhammad Yasir Zaki,1989,Daim Tariq,Night,1706,4,0,52,4749,1140472
+1-Nov-24,Saim Kamran,0,Daim Tariq,Night,1682,0,0,0,0,0
+1-Nov-24,Ahtesham,30203,Haris Ahmed,Night,1670,0,0,377,44419,0
+1-Nov-24,Arsalan Ahmed,30151,Haris Ahmed,Night,1928,0,0,34,1957,0
+1-Nov-24,Bilal Ahmed,1837,Haris Ahmed,Night,1694,2,0,80,11863,212326
+1-Nov-24,Shijaan Ali,2206,Haris Ahmed,Night,1887,11,0,92,7854,462800
+1-Nov-24,Jabran Shamoon,2113,Haris Ahmed,Night,1851,11,0,250,40347,932309
+1-Nov-24,Mirza Waseem,1844,Haris Ahmed,Night,1516,7,0,91,10276,877321
+1-Nov-24,Muhammad Aliyan Abid,30163,Haris Ahmed,Night,1587,0,0,0,0,0
+1-Nov-24,Behroz Khan,30085,Haris Ahmed,Night,1570,5,0,302,22945,225262
+1-Nov-24,Shoaib Khan,30080,Haris Ahmed,Night,1574,4,0,141,16493,254171
+1-Nov-24,Sameer Arzan,0,Haris Ahmed,Night,1702,0,0,813,94380,0
+1-Nov-24,Shehbaz Raza,30103,Kamran Siddiqui,Night,1532,0,0,425,28375,0
+1-Nov-24,Fatymah Iqbal,30193,Muhammad Hammad,Morning,1504,0,0,0,0,0
+1-Nov-24,Joshua Schon,30106,Muhammad Hammad,Morning,1554,3,0,627,39067,199600
+1-Nov-24,Maryam Siddiqui,1994,Muhammad Hammad,Morning,1711,7,0,26,3226,697879
+1-Nov-24,Muhammad Shazain Khan,30095,Muhammad Hammad,Morning,1816,4,0,593,53089,462008
+1-Nov-24,Mujtaba Hassan,0,Muhammad Hammad,Morning,1638,0,0,0,0,0
+1-Nov-24,Shahzeb Ali Khan,2164,Muhammad Hammad,Morning,1710,4,0,757,62863,381977
+1-Nov-24,Syed Ashar Ali,0,Muhammad Hammad,Morning,1651,0,0,69,7508,0
+1-Nov-24,Ada Aziz,1840,Muhammad Khurshid Khan,Morning,1507,4,0,231,21265,1199224
+1-Nov-24,Moazzam Ali,30206,Muhammad Khurshid Khan,Morning,1560,0,0,0,0,0
+1-Nov-24,Mohsin Waheed,30031,Muhammad Khurshid Khan,Morning,1788,4,0,709,45272,-467638
+1-Nov-24,Nehal Ahmed,30011,Muhammad Khurshid Khan,Morning,1540,8,0,221,13638,250285
+1-Nov-24,Rana Shahbaz Tahir,30071,Muhammad Khurshid Khan,Morning,1530,0,0,278,24606,0
+1-Nov-24,Shamiq Waseem,2154,Muhammad Khurshid Khan,Morning,1789,7,0,414,21621,1127928
+1-Nov-24,Subaiyal Muhammad Aslam,30210,Muhammad Khurshid Khan,Morning,1853,0,0,0,0,0
+1-Nov-24,Yassi Asif Raza,30207,Muhammad Khurshid Khan,Morning,1639,0,0,640,52705,0
+1-Nov-24,Affan Ahmed,0,Salman Rehmani,Morning,1558,0,0,0,0,0
+1-Nov-24,Ahmed Raza 1579,30194,Salman Rehmani,Morning,1579,0,0,199,17784,0
+1-Nov-24,Haniyyah Faisal,0,Salman Rehmani,Morning,1703,0,0,0,0,0
+1-Nov-24,Misbah Khan,30188,Salman Rehmani,Morning,1509,1,0,0,0,104855
+1-Nov-24,Haseeb Naushad,30051,Salman Rehmani,Morning,1561,0,0,657,66146,0
+1-Nov-24,Shayan Ansari,30179,Salman Rehmani,Morning,1529,0,0,454,45353,0
+1-Nov-24,Umar Bin Khalid,0,Salman Rehmani,Morning,1545,0,0,0,0,0
+1-Nov-24,Muhammad Usman,30164,Asif Shahab,Night,1547,0,0,0,0,0
+1-Dec-24,Anas Asim,30016,Asif Shahab,Night,1807,5,0,435,36555,752609
+1-Dec-24,Asif Shahab,1819,Asif Shahab,Night,1671,9,0,218,22225,975955
+1-Dec-24,Atir Abid,0,Asif Shahab,Night,1828,0,0,169,11950,0
+1-Dec-24,Ebad Ul Haque,2034,Asif Shahab,Night,1752,4,0,513,37910,102361
+1-Dec-24,Janeen Campbell,0,Asif Shahab,Night,-,0,0,0,0,0
+1-Dec-24,Aamir Ahmed,30204,Asif Shahab,Night,1659,0,0,0,0,0
+1-Dec-24,Omer Ansari,30037,Asif Shahab,Night,1559,9,0,135,18920,1733179
+1-Dec-24,Salman Mubarak,30141,Asif Shahab,Night,1803,0,0,185,16379,0
+1-Dec-24,Syed Abid Ali Shah,2123,Asif Shahab,Night,1873,2,0,221,24142,388003
+1-Dec-24,Abeeha Ali,2202,Atufa Arshad,Morning,1552,6,0,841,50915,341091
+1-Dec-24,Aqib Aqeel,2136,Atufa Arshad,Morning,1892,1,0,539,75185,122353
+1-Dec-24,Azeem baig,2098,Atufa Arshad,Morning,1817,6,0,593,43430,654517
+1-Dec-24,Damral Pearl,0,Atufa Arshad,Morning,1512,1,0,0,0,179167
+1-Dec-24,Ghania Umer,30213,Atufa Arshad,Morning,1674,0,0,503,30399,0
+1-Dec-24,Huma Meer,2163,Atufa Arshad,Morning,1521,1,0,526,52767,35464
+1-Dec-24,Zoha Amir,30160,Atufa Arshad,Morning,1523,0,0,0,0,0
+1-Dec-24,Abdullah,2029,Daim Tariq,Night,1747,20,0,134,11413,1032391
+1-Dec-24,Ashhad Bin Saad,2141,Daim Tariq,Night,1900,0,0,670,88075,0
+1-Dec-24,Hammad Nasar,30196,Daim Tariq,Night,1533,0,0,438,33115,0
+1-Dec-24,Hassan Ali,2139,Daim Tariq,Night,1895,9,0,103,13462,1414037
+1-Dec-24,Huzaifa Ali,30192,Daim Tariq,Night,1604,0,0,3,1060,0
+1-Dec-24,Mir Faizan Ali,1982,Daim Tariq,Night,1701,4,0,312,26438,300273
+1-Dec-24,Moiz Ahmed Siddiqui,2016,Daim Tariq,Night,1733,5,0,136,9102,469617
+1-Dec-24,Osama Khan,30008,Daim Tariq,Night,1519,4,0,472,30240,345284
+1-Dec-24,Muhammad Yasir Zaki,1989,Daim Tariq,Night,1706,5,0,133,10666,154262
+1-Dec-24,Saim Kamran,0,Daim Tariq,Night,1682,0,0,0,0,0
+1-Dec-24,Ahtesham,30203,Haris Ahmed,Night,1670,0,0,0,0,0
+1-Dec-24,Arsalan Ahmed,30151,Haris Ahmed,Night,1928,0,0,0,0,0
+1-Dec-24,Bilal Ahmed,1837,Haris Ahmed,Night,1694,1,0,62,8065,74272
+1-Dec-24,Shijaan Ali,2206,Haris Ahmed,Night,1887,6,0,42,3155,1084797
+1-Dec-24,Jabran Shamoon,2113,Haris Ahmed,Night,1851,5,0,226,37691,1442043
+1-Dec-24,Mirza Waseem,1844,Haris Ahmed,Night,1516,4,0,176,13022,350929
+1-Dec-24,Muhammad Aliyan Abid,30163,Haris Ahmed,Night,1587,0,0,0,0,0
+1-Dec-24,Behroz Khan,30085,Haris Ahmed,Night,1570,3,0,158,24418,243311
+1-Dec-24,Shoaib Khan,30080,Haris Ahmed,Night,1574,0,0,79,13788,0
+1-Dec-24,Sameer Arzan,0,Haris Ahmed,Night,1702,0,0,965,76328,0
+1-Dec-24,Shehbaz Raza,30103,Kamran Siddiqui,Night,1532,1,0,240,16220,121808
+1-Dec-24,Fatymah Iqbal,30193,Muhammad Hammad,Morning,1504,0,0,0,0,0
+1-Dec-24,Joshua Schon,30106,Muhammad Hammad,Morning,1554,2,0,509,33057,173966
+1-Dec-24,Maryam Siddiqui,1994,Muhammad Hammad,Morning,1711,2,0,50,5412,371233
+1-Dec-24,Muhammad Shazain Khan,30095,Muhammad Hammad,Morning,1816,1,0,618,44247,78291
+1-Dec-24,Mujtaba Hassan,0,Muhammad Hammad,Morning,1638,0,0,0,0,0
+1-Dec-24,Shahzeb Ali Khan,2164,Muhammad Hammad,Morning,1710,3,0,637,46949,202772
+1-Dec-24,Syed Ashar Ali,0,Muhammad Hammad,Morning,1651,0,0,73,6514,0
+1-Dec-24,Ada Aziz,1840,Muhammad Khurshid Khan,Morning,1507,9,0,375,26405,538132
+1-Dec-24,Moazzam Ali,30206,Muhammad Khurshid Khan,Morning,1560,0,0,0,0,0
+1-Dec-24,Mohsin Waheed,30031,Muhammad Khurshid Khan,Morning,1788,1,0,749,48626,414734
+1-Dec-24,Nehal Ahmed,30011,Muhammad Khurshid Khan,Morning,1540,3,0,379,24503,16700
+1-Dec-24,Rana Shahbaz Tahir,30071,Muhammad Khurshid Khan,Morning,1530,1,0,448,35088,31000
+1-Dec-24,Shamiq Waseem,2154,Muhammad Khurshid Khan,Morning,1789,0,0,748,40498,0
+1-Dec-24,Subaiyal Muhammad Aslam,30210,Muhammad Khurshid Khan,Morning,1853,0,0,0,0,0
+1-Dec-24,Yassi Asif Raza,30207,Muhammad Khurshid Khan,Morning,1639,0,0,462,29390,0
+1-Dec-24,Affan Ahmed,0,Salman Rehmani,Morning,1558,0,0,0,0,0
+1-Dec-24,Ahmed Raza 1579,30194,Salman Rehmani,Morning,1579,0,0,388,30433,0
+1-Dec-24,Haniyyah Faisal,0,Salman Rehmani,Morning,1703,0,0,0,0,0
+1-Dec-24,Misbah Khan,30188,Salman Rehmani,Morning,1509,1,0,0,0,67359
+1-Dec-24,Haseeb Naushad,30051,Salman Rehmani,Morning,1561,0,0,681,68432,0
+1-Dec-24,Shayan Ansari,30179,Salman Rehmani,Morning,1529,0,0,530,47036,0
+1-Dec-24,Umar Bin Khalid,0,Salman Rehmani,Morning,1545,0,0,0,0,0
+1-Dec-24,Muhammad Usman,30164,Asif Shahab,Night,1547,0,0,0,0,0
+1-Jan-25,Anas Asim,30016,Asif Shahab,Night,1807,11,0,554,43091,718718
+1-Jan-25,Asif Shahab,1819,Asif Shahab,Night,1671,6,0,692,59867,538493
+1-Jan-25,Atir Abid,0,Asif Shahab,Night,1828,0,0,212,13154,0
+1-Jan-25,Ebad Ul Haque,2034,Asif Shahab,Night,1752,9,0,991,66482,935916
+1-Jan-25,Janeen Campbell,0,Asif Shahab,Night,-,2,0,0,0,0
+1-Jan-25,Aamir Ahmed,30204,Asif Shahab,Night,1659,0,0,0,0,0
+1-Jan-25,Omer Ansari,30037,Asif Shahab,Night,1559,7,0,164,19627,1458715
+1-Jan-25,Salman Mubarak,30141,Asif Shahab,Night,1803,0,0,519,51875,0
+1-Jan-25,Syed Abid Ali Shah,2123,Asif Shahab,Night,1873,6,0,383,39277,251449
+1-Jan-25,Abeeha Ali,2202,Atufa Arshad,Morning,1552,3,0,936,66313,190951
+1-Jan-25,Aqib Aqeel,2136,Atufa Arshad,Morning,1892,16,0,403,74602,1642830
+1-Jan-25,Azeem baig,2098,Atufa Arshad,Morning,1817,1,0,500,39122,68718
+1-Jan-25,Damral Pearl,0,Atufa Arshad,Morning,1512,0,0,0,0,0
+1-Jan-25,Ghania Umer,30213,Atufa Arshad,Morning,1674,0,0,463,28883,0
+1-Jan-25,Huma Meer,2163,Atufa Arshad,Morning,1521,1,0,745,70175,70949
+1-Jan-25,Zoha Amir,30160,Atufa Arshad,Morning,1523,0,0,253,17920,0
+1-Jan-25,Abdullah,2029,Daim Tariq,Night,1747,8,0,404,39678,325483
+1-Jan-25,Ashhad Bin Saad,2141,Daim Tariq,Night,1900,0,0,389,51766,0
+1-Jan-25,Hammad Nasar,30196,Daim Tariq,Night,1533,0,0,136,10898,0
+1-Jan-25,Hassan Ali,2139,Daim Tariq,Night,1895,7,0,110,10910,1111726
+1-Jan-25,Huzaifa Ali,30192,Daim Tariq,Night,1604,0,0,0,0,0
+1-Jan-25,Mir Faizan Ali,1982,Daim Tariq,Night,1701,5,0,813,63816,1050854
+1-Jan-25,Moiz Ahmed Siddiqui,2016,Daim Tariq,Night,1733,7,0,197,12793,608076
+1-Jan-25,Osama Khan,30008,Daim Tariq,Night,1519,3,0,375,26195,265777
+1-Jan-25,Muhammad Yasir Zaki,1989,Daim Tariq,Night,1706,11,0,118,10455,1396296
+1-Jan-25,Saim Kamran,0,Daim Tariq,Night,1682,0,0,0,0,0
+1-Jan-25,Ahtesham,30203,Haris Ahmed,Night,1670,0,0,155,11527,0
+1-Jan-25,Arsalan Ahmed,30151,Haris Ahmed,Night,1928,0,0,535,44656,0
+1-Jan-25,Bilal Ahmed,1837,Haris Ahmed,Night,1694,1,0,148,13792,51588
+1-Jan-25,Shijaan Ali,2206,Haris Ahmed,Night,1887,3,0,51,4598,266195
+1-Jan-25,Jabran Shamoon,2113,Haris Ahmed,Night,1851,3,0,284,46738,392386
+1-Jan-25,Mirza Waseem,1844,Haris Ahmed,Night,1516,5,0,291,19634,356434
+1-Jan-25,Muhammad Aliyan Abid,30163,Haris Ahmed,Night,1587,0,0,22,2142,0
+1-Jan-25,Behroz Khan,30085,Haris Ahmed,Night,1570,5,0,125,21518,628845
+1-Jan-25,Shoaib Khan,30080,Haris Ahmed,Night,1574,2,0,109,17662,193512
+1-Jan-25,Sameer Arzan,0,Haris Ahmed,Night,1702,0,0,797,69346,0
+1-Jan-25,Shehbaz Raza,30103,Kamran Siddiqui,Night,1532,1,0,369,25964,344544
+1-Jan-25,Fatymah Iqbal,30193,Muhammad Hammad,Morning,1504,0,0,0,0,0
+1-Jan-25,Joshua Schon,30106,Muhammad Hammad,Morning,1554,3,0,432,26922,267493
+1-Jan-25,Maryam Siddiqui,1994,Muhammad Hammad,Morning,1711,17,0,51,5005,1877676
+1-Jan-25,Muhammad Shazain Khan,30095,Muhammad Hammad,Morning,1816,5,0,504,34567,391546
+1-Jan-25,Mujtaba Hassan,0,Muhammad Hammad,Morning,1638,0,0,0,0,0
+1-Jan-25,Shahzeb Ali Khan,2164,Muhammad Hammad,Morning,1710,2,0,523,38061,376443
+1-Jan-25,Syed Ashar Ali,0,Muhammad Hammad,Morning,1651,0,0,56,7647,0
+1-Jan-25,Ada Aziz,1840,Muhammad Khurshid Khan,Morning,1507,10,0,265,16596,1099434
+1-Jan-25,Moazzam Ali,30206,Muhammad Khurshid Khan,Morning,1560,0,0,238,28997,0
+1-Jan-25,Mohsin Waheed,30031,Muhammad Khurshid Khan,Morning,1788,3,0,757,48022,933250
+1-Jan-25,Nehal Ahmed,30011,Muhammad Khurshid Khan,Morning,1540,0,0,492,37642,0
+1-Jan-25,Rana Shahbaz Tahir,30071,Muhammad Khurshid Khan,Morning,1530,1,0,637,54036,65899
+1-Jan-25,Shamiq Waseem,2154,Muhammad Khurshid Khan,Morning,1789,14,0,344,17466,691697
+1-Jan-25,Subaiyal Muhammad Aslam,30210,Muhammad Khurshid Khan,Morning,1853,0,0,0,0,0
+1-Jan-25,Yassi Asif Raza,30207,Muhammad Khurshid Khan,Morning,1639,0,0,668,44409,0
+1-Jan-25,Affan Ahmed,0,Salman Rehmani,Morning,1558,0,0,0,0,0
+1-Jan-25,Ahmed Raza 1579,30194,Salman Rehmani,Morning,1579,0,0,771,52126,0
+1-Jan-25,Haniyyah Faisal,0,Salman Rehmani,Morning,1703,0,0,0,0,0
+1-Jan-25,Misbah Khan,30188,Salman Rehmani,Morning,1509,0,0,0,0,0
+1-Jan-25,Haseeb Naushad,30051,Salman Rehmani,Morning,1561,0,0,832,87414,0
+1-Jan-25,Shayan Ansari,30179,Salman Rehmani,Morning,1529,0,0,0,0,0
+1-Jan-25,Umar Bin Khalid,0,Salman Rehmani,Morning,1545,0,0,0,0,0
+1-Jan-25,Muhammad Usman,30164,Asif Shahab,Night,1547,0,0,44,3242,0
+1-Feb-25,Anas Asim,30016,Asif Shahab,Night,1807,3,0,440,33804,286427
+1-Feb-25,Asif Shahab,1819,Asif Shahab,Night,1671,7,0,696,70193,1155462
+1-Feb-25,Atir Abid,0,Asif Shahab,Night,1828,0,0,48,2869,0
+1-Feb-25,Ebad Ul Haque,2034,Asif Shahab,Night,1752,4,0,388,30437,320918
+1-Feb-25,Janeen Campbell,0,Asif Shahab,Night,-,0,0,0,0,0
+1-Feb-25,Aamir Ahmed,30204,Asif Shahab,Night,1659,0,0,54,3108,0
+1-Feb-25,Omer Ansari,30037,Asif Shahab,Night,1559,7,0,71,9879,249429
+1-Feb-25,Salman Mubarak,30141,Asif Shahab,Night,1803,0,0,566,72924,0
+1-Feb-25,Syed Abid Ali Shah,2123,Asif Shahab,Night,1873,1,0,255,26210,242529
+1-Feb-25,Abeeha Ali,2202,Atufa Arshad,Morning,1552,4,0,436,35315,351636
+1-Feb-25,Aqib Aqeel,2136,Atufa Arshad,Morning,1892,4,0,311,62059,301039
+1-Feb-25,Azeem baig,2098,Atufa Arshad,Morning,1817,4,0,307,30035,481066
+1-Feb-25,Damral Pearl,0,Atufa Arshad,Morning,1512,0,0,0,0,0
+1-Feb-25,Ghania Umer,30213,Atufa Arshad,Morning,1674,0,0,646,53314,0
+1-Feb-25,Huma Meer,2163,Atufa Arshad,Morning,1521,1,0,491,72914,180060
+1-Feb-25,Zoha Amir,30160,Atufa Arshad,Morning,1523,0,0,785,61780,0
+1-Feb-25,Abdullah,2029,Daim Tariq,Night,1747,8,0,156,19135,233342
+1-Feb-25,Ashhad Bin Saad,2141,Daim Tariq,Night,1900,0,0,317,40892,0
+1-Feb-25,Hammad Nasar,30196,Daim Tariq,Night,1533,0,0,262,19658,0
+1-Feb-25,Hassan Ali,2139,Daim Tariq,Night,1895,8,0,70,11241,1335853
+1-Feb-25,Huzaifa Ali,30192,Daim Tariq,Night,1604,0,0,0,0,0
+1-Feb-25,Mir Faizan Ali,1982,Daim Tariq,Night,1701,4,0,334,31620,444132
+1-Feb-25,Moiz Ahmed Siddiqui,2016,Daim Tariq,Night,1733,9,0,92,6501,1323417
+1-Feb-25,Osama Khan,30008,Daim Tariq,Night,1519,1,0,208,16062,55399
+1-Feb-25,Muhammad Yasir Zaki,1989,Daim Tariq,Night,1706,19,0,51,4823,2013686
+1-Feb-25,Saim Kamran,0,Daim Tariq,Night,1682,0,0,0,0,0
+1-Feb-25,Ahtesham,30203,Haris Ahmed,Night,1670,0,0,198,13591,0
+1-Feb-25,Arsalan Ahmed,30151,Haris Ahmed,Night,1928,0,0,842,65376,0
+1-Feb-25,Bilal Ahmed,1837,Haris Ahmed,Night,1694,2,0,38,5360,605190
+1-Feb-25,Shijaan Ali,2206,Haris Ahmed,Night,1887,1,0,38,5047,-62509
+1-Feb-25,Jabran Shamoon,2113,Haris Ahmed,Night,1851,4,0,318,53991,436641
+1-Feb-25,Mirza Waseem,1844,Haris Ahmed,Night,1516,2,0,61,6975,358416
+1-Feb-25,Muhammad Aliyan Abid,30163,Haris Ahmed,Night,1587,0,0,503,37878,0
+1-Feb-25,Behroz Khan,30085,Haris Ahmed,Night,1570,3,0,36,6166,1442804
+1-Feb-25,Shoaib Khan,30080,Haris Ahmed,Night,1574,0,0,36,7864,0
+1-Feb-25,Sameer Arzan,0,Haris Ahmed,Night,1702,0,0,706,51559,0
+1-Feb-25,Shehbaz Raza,30103,Kamran Siddiqui,Night,1532,2,0,166,12554,130836
+1-Feb-25,Fatymah Iqbal,30193,Muhammad Hammad,Morning,1504,0,0,0,0,0
+1-Feb-25,Joshua Schon,30106,Muhammad Hammad,Morning,1554,4,0,652,54312,334549
+1-Feb-25,Maryam Siddiqui,1994,Muhammad Hammad,Morning,1711,9,0,64,8020,337971
+1-Feb-25,Muhammad Shazain Khan,30095,Muhammad Hammad,Morning,1816,0,0,652,52669,0
+1-Feb-25,Mujtaba Hassan,0,Muhammad Hammad,Morning,1638,0,0,0,0,0
+1-Feb-25,Shahzeb Ali Khan,2164,Muhammad Hammad,Morning,1710,2,0,639,78383,192997
+1-Feb-25,Syed Ashar Ali,0,Muhammad Hammad,Morning,1651,0,0,16,1633,0
+1-Feb-25,Ada Aziz,1840,Muhammad Khurshid Khan,Morning,1507,12,0,187,15945,961349
+1-Feb-25,Moazzam Ali,30206,Muhammad Khurshid Khan,Morning,1560,0,0,497,63143,0
+1-Feb-25,Mohsin Waheed,30031,Muhammad Khurshid Khan,Morning,1788,8,0,446,30042,1151154
+1-Feb-25,Nehal Ahmed,30011,Muhammad Khurshid Khan,Morning,1540,2,0,498,37175,72862
+1-Feb-25,Rana Shahbaz Tahir,30071,Muhammad Khurshid Khan,Morning,1530,2,0,416,43225,88000
+1-Feb-25,Shamiq Waseem,2154,Muhammad Khurshid Khan,Morning,1789,17,0,340,18883,1003751
+1-Feb-25,Subaiyal Muhammad Aslam,30210,Muhammad Khurshid Khan,Morning,1853,0,0,0,0,0
+1-Feb-25,Yassi Asif Raza,30207,Muhammad Khurshid Khan,Morning,1639,0,0,619,42965,0
+1-Feb-25,Affan Ahmed,0,Salman Rehmani,Morning,1558,0,0,0,0,0
+1-Feb-25,Ahmed Raza 1579,30194,Salman Rehmani,Morning,1579,0,0,471,41782,0
+1-Feb-25,Haniyyah Faisal,0,Salman Rehmani,Morning,1703,0,0,0,0,0
+1-Feb-25,Misbah Khan,30188,Salman Rehmani,Morning,1509,0,0,0,0,0
+1-Feb-25,Haseeb Naushad,30051,Salman Rehmani,Morning,1561,0,0,524,52424,0
+1-Feb-25,Shayan Ansari,30179,Salman Rehmani,Morning,1529,1,0,7,770,135921
+1-Feb-25,Umar Bin Khalid,0,Salman Rehmani,Morning,1545,0,0,0,0,0
+1-Feb-25,Muhammad Usman,30164,Asif Shahab,Night,1547,0,0,304,31861,0
+1-Mar-25,Anas Asim,30016,Asif Shahab,Night,1807,2,0,416,31079,260304
+1-Mar-25,Asif Shahab,1819,Asif Shahab,Night,1671,5,0,454,40338,1098145
+1-Mar-25,Atir Abid,0,Asif Shahab,Night,1828,0,0,9,1311,0
+1-Mar-25,Ebad Ul Haque,2034,Asif Shahab,Night,1752,6,0,189,13181,89538
+1-Mar-25,Janeen Campbell,0,Asif Shahab,Night,-,0,0,0,0,0
+1-Mar-25,Aamir Ahmed,30204,Asif Shahab,Night,1659,0,0,0,0,0
+1-Mar-25,Omer Ansari,30037,Asif Shahab,Night,1559,18,0,18,2818,2475605
+1-Mar-25,Salman Mubarak,30141,Asif Shahab,Night,1803,0,0,279,32492,0
+1-Mar-25,Syed Abid Ali Shah,2123,Asif Shahab,Night,1873,5,0,156,13017,452322
+1-Mar-25,Abeeha Ali,2202,Atufa Arshad,Morning,1552,2,0,668,50550,446322
+1-Mar-25,Aqib Aqeel,2136,Atufa Arshad,Morning,1892,5,0,421,73008,693202
+1-Mar-25,Azeem baig,2098,Atufa Arshad,Morning,1817,3,0,327,24945,252798
+1-Mar-25,Damral Pearl,0,Atufa Arshad,Morning,1512,1,0,0,0,-20954
+1-Mar-25,Ghania Umer,30213,Atufa Arshad,Morning,1674,0,0,398,47814,0
+1-Mar-25,Huma Meer,2163,Atufa Arshad,Morning,1521,0,0,647,72505,0
+1-Mar-25,Zoha Amir,30160,Atufa Arshad,Morning,1523,1,0,783,74089,325038
+1-Mar-25,Abdullah,2029,Daim Tariq,Night,1747,12,0,98,12340,834798
+1-Mar-25,Ashhad Bin Saad,2141,Daim Tariq,Night,1900,1,0,580,66065,199937
+1-Mar-25,Hammad Nasar,30196,Daim Tariq,Night,1533,0,0,323,22871,0
+1-Mar-25,Hassan Ali,2139,Daim Tariq,Night,1895,5,0,42,7291,282257
+1-Mar-25,Huzaifa Ali,30192,Daim Tariq,Night,1604,0,0,0,0,0
+1-Mar-25,Mir Faizan Ali,1982,Daim Tariq,Night,1701,8,0,116,12295,860960
+1-Mar-25,Moiz Ahmed Siddiqui,2016,Daim Tariq,Night,1733,20,0,72,5236,1821455
+1-Mar-25,Osama Khan,30008,Daim Tariq,Night,1519,11,0,74,6245,997305
+1-Mar-25,Muhammad Yasir Zaki,1989,Daim Tariq,Night,1706,12,0,20,1786,1135884
+1-Mar-25,Saim Kamran,0,Daim Tariq,Night,1682,0,0,0,0,0
+1-Mar-25,Ahtesham,30203,Haris Ahmed,Night,1670,0,0,0,0,0
+1-Mar-25,Arsalan Ahmed,30151,Haris Ahmed,Night,1928,1,0,836,65251,-14895
+1-Mar-25,Bilal Ahmed,1837,Haris Ahmed,Night,1694,5,0,32,2978,462177
+1-Mar-25,Shijaan Ali,2206,Haris Ahmed,Night,1887,18,0,27,3775,1719689
+1-Mar-25,Jabran Shamoon,2113,Haris Ahmed,Night,1851,10,0,222,26873,2825725
+1-Mar-25,Mirza Waseem,1844,Haris Ahmed,Night,1516,5,0,26,4920,197152
+1-Mar-25,Muhammad Aliyan Abid,30163,Haris Ahmed,Night,1587,0,0,411,32771,0
+1-Mar-25,Behroz Khan,30085,Haris Ahmed,Night,1570,11,0,9,2054,2370965
+1-Mar-25,Shoaib Khan,30080,Haris Ahmed,Night,1574,7,0,33,7167,-916010
+1-Mar-25,Sameer Arzan,0,Haris Ahmed,Night,1702,0,0,598,38089,0
+1-Mar-25,Shehbaz Raza,30103,Kamran Siddiqui,Night,1532,4,0,110,6381,1023841
+1-Mar-25,Fatymah Iqbal,30193,Muhammad Hammad,Morning,1504,0,0,0,0,0
+1-Mar-25,Joshua Schon,30106,Muhammad Hammad,Morning,1554,0,0,508,35213,0
+1-Mar-25,Maryam Siddiqui,1994,Muhammad Hammad,Morning,1711,21,0,32,5387,2914827
+1-Mar-25,Muhammad Shazain Khan,30095,Muhammad Hammad,Morning,1816,2,0,455,35018,203248
+1-Mar-25,Mujtaba Hassan,0,Muhammad Hammad,Morning,1638,0,0,0,0,0
+1-Mar-25,Shahzeb Ali Khan,2164,Muhammad Hammad,Morning,1710,2,0,549,51652,306436
+1-Mar-25,Syed Ashar Ali,0,Muhammad Hammad,Morning,1651,0,0,23,3087,0
+1-Mar-25,Ada Aziz,1840,Muhammad Khurshid Khan,Morning,1507,3,0,206,15675,186078
+1-Mar-25,Moazzam Ali,30206,Muhammad Khurshid Khan,Morning,1560,0,0,387,53836,0
+1-Mar-25,Mohsin Waheed,30031,Muhammad Khurshid Khan,Morning,1788,1,0,227,16235,226814
+1-Mar-25,Nehal Ahmed,30011,Muhammad Khurshid Khan,Morning,1540,1,0,197,13768,32754
+1-Mar-25,Rana Shahbaz Tahir,30071,Muhammad Khurshid Khan,Morning,1530,5,0,110,9554,197164
+1-Mar-25,Shamiq Waseem,2154,Muhammad Khurshid Khan,Morning,1789,7,0,79,5854,1904180
+1-Mar-25,Subaiyal Muhammad Aslam,30210,Muhammad Khurshid Khan,Morning,1853,0,0,0,0,0
+1-Mar-25,Yassi Asif Raza,30207,Muhammad Khurshid Khan,Morning,1639,0,0,312,20927,0
+1-Mar-25,Affan Ahmed,0,Salman Rehmani,Morning,1558,0,0,0,0,0
+1-Mar-25,Ahmed Raza 1579,30194,Salman Rehmani,Morning,1579,0,0,508,33442,0
+1-Mar-25,Haniyyah Faisal,0,Salman Rehmani,Morning,1703,1,0,0,0,52534
+1-Mar-25,Misbah Khan,30188,Salman Rehmani,Morning,1509,0,0,7,1254,0
+1-Mar-25,Haseeb Naushad,30051,Salman Rehmani,Morning,1561,0,0,636,57542,0
+1-Mar-25,Shayan Ansari,30179,Salman Rehmani,Morning,1529,1,0,156,19282,98354
+1-Mar-25,Umar Bin Khalid,0,Salman Rehmani,Morning,1545,0,0,0,0,0
+1-Mar-25,Muhammad Usman,30164,Asif Shahab,Night,1547,0,0,94,7458,0
+1-Apr-25,Anas Asim,30016,Asif Shahab,Night,1807,6,0,324,27296,567455
+1-Apr-25,Asif Shahab,1819,Asif Shahab,Night,1671,4,0,467,34569,237262
+1-Apr-25,Atir Abid,0,Asif Shahab,Night,1828,0,0,55,5606,0
+1-Apr-25,Ebad Ul Haque,2034,Asif Shahab,Night,1752,10,0,145,14874,627242
+1-Apr-25,Janeen Campbell,0,Asif Shahab,Night,-,0,0,0,0,0
+1-Apr-25,Aamir Ahmed,30204,Asif Shahab,Night,1659,0,0,0,0,0
+1-Apr-25,Omer Ansari,30037,Asif Shahab,Night,1559,14,0,19,3867,1307196
+1-Apr-25,Salman Mubarak,30141,Asif Shahab,Night,1803,0,0,244,35496,0
+1-Apr-25,Syed Abid Ali Shah,2123,Asif Shahab,Night,1873,12,0,235,21367,1604904
+1-Apr-25,Abeeha Ali,2202,Atufa Arshad,Morning,1552,8,0,636,55827,1550512
+1-Apr-25,Aqib Aqeel,2136,Atufa Arshad,Morning,1892,16,0,394,81260,1277596
+1-Apr-25,Azeem baig,2098,Atufa Arshad,Morning,1817,1,0,525,54483,-46600
+1-Apr-25,Damral Pearl,0,Atufa Arshad,Morning,1512,0,0,0,0,0
+1-Apr-25,Ghania Umer,30213,Atufa Arshad,Morning,1674,0,0,2,159,0
+1-Apr-25,Huma Meer,2163,Atufa Arshad,Morning,1521,1,0,563,76769,25858
+1-Apr-25,Zoha Amir,30160,Atufa Arshad,Morning,1523,3,0,810,108233,285924
+1-Apr-25,Abdullah,2029,Daim Tariq,Night,1747,23,0,76,8113,1615986
+1-Apr-25,Ashhad Bin Saad,2141,Daim Tariq,Night,1900,0,0,716,83119,0
+1-Apr-25,Hammad Nasar,30196,Daim Tariq,Night,1533,0,0,133,14198,0
+1-Apr-25,Hassan Ali,2139,Daim Tariq,Night,1895,7,0,60,7024,367033
+1-Apr-25,Huzaifa Ali,30192,Daim Tariq,Night,1604,0,0,236,16824,0
+1-Apr-25,Mir Faizan Ali,1982,Daim Tariq,Night,1701,4,0,237,24781,440829
+1-Apr-25,Moiz Ahmed Siddiqui,2016,Daim Tariq,Night,1733,17,0,68,4324,3907139
+1-Apr-25,Osama Khan,30008,Daim Tariq,Night,1519,4,0,106,7868,359261
+1-Apr-25,Muhammad Yasir Zaki,1989,Daim Tariq,Night,1706,13,0,39,4764,1147058
+1-Apr-25,Saim Kamran,0,Daim Tariq,Night,1682,0,0,0,0,0
+1-Apr-25,Ahtesham,30203,Haris Ahmed,Night,1670,0,0,0,0,0
+1-Apr-25,Arsalan Ahmed,30151,Haris Ahmed,Night,1928,1,0,569,46698,-644
+1-Apr-25,Bilal Ahmed,1837,Haris Ahmed,Night,1694,0,0,46,7454,0
+1-Apr-25,Shijaan Ali,2206,Haris Ahmed,Night,1887,21,0,30,3073,353493
+1-Apr-25,Jabran Shamoon,2113,Haris Ahmed,Night,1851,4,0,222,32686,122511
+1-Apr-25,Mirza Waseem,1844,Haris Ahmed,Night,1516,12,0,27,3531,419374
+1-Apr-25,Muhammad Aliyan Abid,30163,Haris Ahmed,Night,1587,0,0,586,50021,0
+1-Apr-25,Behroz Khan,30085,Haris Ahmed,Night,1570,0,0,18,2741,0
+1-Apr-25,Shoaib Khan,30080,Haris Ahmed,Night,1574,3,0,23,5772,133060
+1-Apr-25,Sameer Arzan,0,Haris Ahmed,Night,1702,0,0,7,486,0
+1-Apr-25,Shehbaz Raza,30103,Kamran Siddiqui,Night,1532,1,0,129,7094,326895
+1-Apr-25,Fatymah Iqbal,30193,Muhammad Hammad,Morning,1504,0,0,275,27210,0
+1-Apr-25,Joshua Schon,30106,Muhammad Hammad,Morning,1554,6,0,186,12727,383835
+1-Apr-25,Maryam Siddiqui,1994,Muhammad Hammad,Morning,1711,11,0,21,1876,1647717
+1-Apr-25,Muhammad Shazain Khan,30095,Muhammad Hammad,Morning,1816,5,0,309,23116,418913
+1-Apr-25,Mujtaba Hassan,0,Muhammad Hammad,Morning,1638,0,0,0,0,0
+1-Apr-25,Shahzeb Ali Khan,2164,Muhammad Hammad,Morning,1710,4,0,253,19829,464177
+1-Apr-25,Syed Ashar Ali,0,Muhammad Hammad,Morning,1651,0,0,40,7416,0
+1-Apr-25,Ada Aziz,1840,Muhammad Khurshid Khan,Morning,1507,19,0,150,13017,1051977
+1-Apr-25,Moazzam Ali,30206,Muhammad Khurshid Khan,Morning,1560,0,0,434,56280,0
+1-Apr-25,Mohsin Waheed,30031,Muhammad Khurshid Khan,Morning,1788,1,0,213,15324,271793
+1-Apr-25,Nehal Ahmed,30011,Muhammad Khurshid Khan,Morning,1540,1,0,401,29408,61484
+1-Apr-25,Rana Shahbaz Tahir,30071,Muhammad Khurshid Khan,Morning,1530,12,0,265,26506,723040
+1-Apr-25,Shamiq Waseem,2154,Muhammad Khurshid Khan,Morning,1789,8,0,438,34111,780533
+1-Apr-25,Subaiyal Muhammad Aslam,30210,Muhammad Khurshid Khan,Morning,1853,0,0,0,0,0
+1-Apr-25,Yassi Asif Raza,30207,Muhammad Khurshid Khan,Morning,1639,0,0,33,2059,0
+1-Apr-25,Affan Ahmed,0,Salman Rehmani,Morning,1558,0,0,0,0,0
+1-Apr-25,Ahmed Raza 1579,30194,Salman Rehmani,Morning,1579,0,0,570,75655,0
+1-Apr-25,Haniyyah Faisal,0,Salman Rehmani,Morning,1703,0,0,0,0,0
+1-Apr-25,Misbah Khan,30188,Salman Rehmani,Morning,1509,4,0,161,18277,507517
+1-Apr-25,Haseeb Naushad,30051,Salman Rehmani,Morning,1561,0,0,662,82696,0
+1-Apr-25,Shayan Ansari,30179,Salman Rehmani,Morning,1529,11,0,177,19767,977267
+1-Apr-25,Umar Bin Khalid,0,Salman Rehmani,Morning,1545,0,0,0,0,0
+1-Apr-25,Muhammad Usman,30164,Asif Shahab,Night,1547,1,0,75,8379,318579
+1-May-25,Anas Asim,30016,Asif Shahab,Night,1807,6,0,437,43098,533791
+1-May-25,Asif Shahab,1819,Asif Shahab,Night,1671,12,0,297,27407,1840303
+1-May-25,Atir Abid,0,Asif Shahab,Night,1828,0,0,95,8181,0
+1-May-25,Ebad Ul Haque,2034,Asif Shahab,Night,1752,11,0,125,15549,1234925
+1-May-25,Janeen Campbell,0,Asif Shahab,Night,-,1,0,0,0,0
+1-May-25,Aamir Ahmed,30204,Asif Shahab,Night,1659,0,0,188,20023,0
+1-May-25,Omer Ansari,30037,Asif Shahab,Night,1559,12,0,14,1155,696633
+1-May-25,Salman Mubarak,30141,Asif Shahab,Night,1803,0,0,358,54731,0
+1-May-25,Syed Abid Ali Shah,2123,Asif Shahab,Night,1873,5,0,318,34942,538459
+1-May-25,Abeeha Ali,2202,Atufa Arshad,Morning,1552,1,0,729,66235,-3573
+1-May-25,Aqib Aqeel,2136,Atufa Arshad,Morning,1892,4,0,433,63040,314240
+1-May-25,Azeem baig,2098,Atufa Arshad,Morning,1817,3,0,576,55627,1853710
+1-May-25,Damral Pearl,0,Atufa Arshad,Morning,1512,0,0,0,0,0
+1-May-25,Ghania Umer,30213,Atufa Arshad,Morning,1674,0,0,0,0,0
+1-May-25,Huma Meer,2163,Atufa Arshad,Morning,1521,3,0,645,95588,317252
+1-May-25,Zoha Amir,30160,Atufa Arshad,Morning,1523,0,0,779,98985,0
+1-May-25,Abdullah,2029,Daim Tariq,Night,1747,18,0,73,7404,550117
+1-May-25,Ashhad Bin Saad,2141,Daim Tariq,Night,1900,1,0,271,31695,-27837
+1-May-25,Hammad Nasar,30196,Daim Tariq,Night,1533,1,0,284,43044,84792
+1-May-25,Hassan Ali,2139,Daim Tariq,Night,1895,16,0,79,6645,1976187
+1-May-25,Huzaifa Ali,30192,Daim Tariq,Night,1604,0,0,322,30465,0
+1-May-25,Mir Faizan Ali,1982,Daim Tariq,Night,1701,1,0,299,30999,31599
+1-May-25,Moiz Ahmed Siddiqui,2016,Daim Tariq,Night,1733,11,0,118,8444,933991
+1-May-25,Osama Khan,30008,Daim Tariq,Night,1519,1,0,201,16257,54345
+1-May-25,Muhammad Yasir Zaki,1989,Daim Tariq,Night,1706,12,0,59,6314,1107787
+1-May-25,Saim Kamran,0,Daim Tariq,Night,1682,0,0,0,0,0
+1-May-25,Ahtesham,30203,Haris Ahmed,Night,1670,0,0,171,35196,0
+1-May-25,Arsalan Ahmed,30151,Haris Ahmed,Night,1928,0,0,406,41784,0
+1-May-25,Bilal Ahmed,1837,Haris Ahmed,Night,1694,5,0,66,6622,579556
+1-May-25,Shijaan Ali,2206,Haris Ahmed,Night,1887,10,0,71,9827,-464661
+1-May-25,Jabran Shamoon,2113,Haris Ahmed,Night,1851,5,0,257,33311,173206
+1-May-25,Mirza Waseem,1844,Haris Ahmed,Night,1516,12,0,172,13084,737375
+1-May-25,Muhammad Aliyan Abid,30163,Haris Ahmed,Night,1587,0,0,530,56653,0
+1-May-25,Behroz Khan,30085,Haris Ahmed,Night,1570,0,0,19,2835,0
+1-May-25,Shoaib Khan,30080,Haris Ahmed,Night,1574,0,0,128,15140,0
+1-May-25,Sameer Arzan,0,Haris Ahmed,Night,1702,0,0,124,9704,0
+1-May-25,Shehbaz Raza,30103,Kamran Siddiqui,Night,1532,1,0,165,9229,23398
+1-May-25,Fatymah Iqbal,30193,Muhammad Hammad,Morning,1504,0,0,548,39089,0
+1-May-25,Joshua Schon,30106,Muhammad Hammad,Morning,1554,2,0,329,21685,138179
+1-May-25,Maryam Siddiqui,1994,Muhammad Hammad,Morning,1711,13,0,21,2135,1460574
+1-May-25,Muhammad Shazain Khan,30095,Muhammad Hammad,Morning,1816,0,0,389,36365,0
+1-May-25,Mujtaba Hassan,0,Muhammad Hammad,Morning,1638,0,0,0,0,0
+1-May-25,Shahzeb Ali Khan,2164,Muhammad Hammad,Morning,1710,5,0,549,51559,677853
+1-May-25,Syed Ashar Ali,0,Muhammad Hammad,Morning,1651,0,0,5,1018,0
+1-May-25,Ada Aziz,1840,Muhammad Khurshid Khan,Morning,1507,18,0,311,23252,1627171
+1-May-25,Moazzam Ali,30206,Muhammad Khurshid Khan,Morning,1560,0,0,0,0,0
+1-May-25,Mohsin Waheed,30031,Muhammad Khurshid Khan,Morning,1788,3,0,373,24665,987862
+1-May-25,Nehal Ahmed,30011,Muhammad Khurshid Khan,Morning,1540,0,0,726,48172,0
+1-May-25,Rana Shahbaz Tahir,30071,Muhammad Khurshid Khan,Morning,1530,1,0,712,60638,39999
+1-May-25,Shamiq Waseem,2154,Muhammad Khurshid Khan,Morning,1789,5,0,700,40510,38609
+1-May-25,Subaiyal Muhammad Aslam,30210,Muhammad Khurshid Khan,Morning,1853,0,0,0,0,0
+1-May-25,Yassi Asif Raza,30207,Muhammad Khurshid Khan,Morning,1639,0,0,0,0,0
+1-May-25,Affan Ahmed,0,Salman Rehmani,Morning,1558,0,0,0,0,0
+1-May-25,Ahmed Raza 1579,30194,Salman Rehmani,Morning,1579,0,0,656,117741,0
+1-May-25,Haniyyah Faisal,0,Salman Rehmani,Morning,1703,1,0,0,0,118412
+1-May-25,Misbah Khan,30188,Salman Rehmani,Morning,1509,8,0,49,4832,480434
+1-May-25,Haseeb Naushad,30051,Salman Rehmani,Morning,1561,0,0,584,67402,0
+1-May-25,Shayan Ansari,30179,Salman Rehmani,Morning,1529,2,0,201,26128,155916
+1-May-25,Umar Bin Khalid,0,Salman Rehmani,Morning,1545,0,0,0,0,0
+1-May-25,Muhammad Usman,30164,Asif Shahab,Night,1547,1,0,98,9910,141502
+1-Jun-25,Anas Asim,30016,Asif Shahab,Night,1807,3,0,406,36084,377665
+1-Jun-25,Asif Shahab,1819,Asif Shahab,Night,1671,7,0,168,15952,638680
+1-Jun-25,Atir Abid,0,Asif Shahab,Night,1828,0,0,0,0,0
+1-Jun-25,Ebad Ul Haque,2034,Asif Shahab,Night,1752,9,0,35,3149,418613
+1-Jun-25,Janeen Campbell,0,Asif Shahab,Night,-,0,0,0,0,0
+1-Jun-25,Aamir Ahmed,30204,Asif Shahab,Night,1659,0,0,171,18770,0
+1-Jun-25,Omer Ansari,30037,Asif Shahab,Night,1559,20,0,3,472,1093199
+1-Jun-25,Salman Mubarak,30141,Asif Shahab,Night,1803,0,0,187,30611,0
+1-Jun-25,Syed Abid Ali Shah,2123,Asif Shahab,Night,1873,5,0,240,24659,918628
+1-Jun-25,Abeeha Ali,2202,Atufa Arshad,Morning,1552,5,0,532,72609,1835625
+1-Jun-25,Aqib Aqeel,2136,Atufa Arshad,Morning,1892,4,0,406,49995,1052003
+1-Jun-25,Azeem baig,2098,Atufa Arshad,Morning,1817,2,0,530,43458,331075
+1-Jun-25,Damral Pearl,0,Atufa Arshad,Morning,1512,0,0,286,27731,0
+1-Jun-25,Ghania Umer,30213,Atufa Arshad,Morning,1674,0,0,676,62247,0
+1-Jun-25,Huma Meer,2163,Atufa Arshad,Morning,1521,2,0,519,68120,301955
+1-Jun-25,Zoha Amir,30160,Atufa Arshad,Morning,1523,0,0,745,78230,0
+1-Jun-25,Abdullah,2029,Daim Tariq,Night,1747,13,0,102,11096,698228
+1-Jun-25,Ashhad Bin Saad,2141,Daim Tariq,Night,1900,0,0,491,69946,0
+1-Jun-25,Hammad Nasar,30196,Daim Tariq,Night,1533,2,0,197,31989,476694
+1-Jun-25,Hassan Ali,2139,Daim Tariq,Night,1895,6,0,28,3673,956883
+1-Jun-25,Huzaifa Ali,30192,Daim Tariq,Night,1604,3,0,172,15989,216955
+1-Jun-25,Mir Faizan Ali,1982,Daim Tariq,Night,1701,7,0,197,22655,810119
+1-Jun-25,Moiz Ahmed Siddiqui,2016,Daim Tariq,Night,1733,14,0,42,3180,2058972
+1-Jun-25,Osama Khan,30008,Daim Tariq,Night,1519,3,0,125,10517,17941
+1-Jun-25,Muhammad Yasir Zaki,1989,Daim Tariq,Night,1706,14,0,40,3490,1819580
+1-Jun-25,Saim Kamran,0,Daim Tariq,Night,1682,0,0,79,4929,0
+1-Jun-25,Ahtesham,30203,Haris Ahmed,Night,1670,0,0,190,54103,0
+1-Jun-25,Arsalan Ahmed,30151,Haris Ahmed,Night,1928,0,0,326,30028,0
+1-Jun-25,Bilal Ahmed,1837,Haris Ahmed,Night,1694,2,0,14,2555,755896
+1-Jun-25,Shijaan Ali,2206,Haris Ahmed,Night,1887,4,0,24,3094,633366
+1-Jun-25,Jabran Shamoon,2113,Haris Ahmed,Night,1851,3,0,135,19075,541021
+1-Jun-25,Mirza Waseem,1844,Haris Ahmed,Night,1516,3,0,75,8356,505421
+1-Jun-25,Muhammad Aliyan Abid,30163,Haris Ahmed,Night,1587,0,0,408,40436,0
+1-Jun-25,Behroz Khan,30085,Haris Ahmed,Night,1570,5,0,9,2002,922045
+1-Jun-25,Shoaib Khan,30080,Haris Ahmed,Night,1574,0,0,21,3715,0
+1-Jun-25,Sameer Arzan,0,Haris Ahmed,Night,1702,0,0,287,42222,0
+1-Jun-25,Shehbaz Raza,30103,Kamran Siddiqui,Night,1532,1,0,153,9767,389723
+1-Jun-25,Fatymah Iqbal,30193,Muhammad Hammad,Morning,1504,0,0,365,27582,0
+1-Jun-25,Joshua Schon,30106,Muhammad Hammad,Morning,1554,1,0,279,17952,21681
+1-Jun-25,Maryam Siddiqui,1994,Muhammad Hammad,Morning,1711,11,0,4,318,1149898
+1-Jun-25,Muhammad Shazain Khan,30095,Muhammad Hammad,Morning,1816,3,0,370,24207,325882
+1-Jun-25,Mujtaba Hassan,0,Muhammad Hammad,Morning,1638,0,0,630,58446,0
+1-Jun-25,Shahzeb Ali Khan,2164,Muhammad Hammad,Morning,1710,1,0,512,32403,216766
+1-Jun-25,Syed Ashar Ali,0,Muhammad Hammad,Morning,1651,0,0,106,10288,0
+1-Jun-25,Ada Aziz,1840,Muhammad Khurshid Khan,Morning,1507,5,1,158,12905,680224
+1-Jun-25,Moazzam Ali,30206,Muhammad Khurshid Khan,Morning,1560,0,0,224,13152,0
+1-Jun-25,Mohsin Waheed,30031,Muhammad Khurshid Khan,Morning,1788,4,0,296,19588,952134
+1-Jun-25,Nehal Ahmed,30011,Muhammad Khurshid Khan,Morning,1540,20,0,503,30282,1420212
+1-Jun-25,Rana Shahbaz Tahir,30071,Muhammad Khurshid Khan,Morning,1530,4,0,485,39917,210300
+1-Jun-25,Shamiq Waseem,2154,Muhammad Khurshid Khan,Morning,1789,4,0,340,20119,697200
+1-Jun-25,Subaiyal Muhammad Aslam,30210,Muhammad Khurshid Khan,Morning,1853,0,0,192,13129,0
+1-Jun-25,Yassi Asif Raza,30207,Muhammad Khurshid Khan,Morning,1639,0,0,179,15876,0
+1-Jun-25,Affan Ahmed,0,Salman Rehmani,Morning,1558,0,0,233,25247,0
+1-Jun-25,Ahmed Raza 1579,30194,Salman Rehmani,Morning,1579,0,0,715,113346,0
+1-Jun-25,Haniyyah Faisal,0,Salman Rehmani,Morning,1703,0,0,336,40087,0
+1-Jun-25,Misbah Khan,30188,Salman Rehmani,Morning,1509,2,0,49,5579,349113
+1-Jun-25,Haseeb Naushad,30051,Salman Rehmani,Morning,1561,0,0,792,83703,0
+1-Jun-25,Shayan Ansari,30179,Salman Rehmani,Morning,1529,0,0,121,14409,0
+1-Jun-25,Umar Bin Khalid,0,Salman Rehmani,Morning,1545,0,0,0,0,0
+1-Jun-25,Muhammad Usman,30164,Asif Shahab,Night,1547,1,0,77,9027,164474
+1-Jul-25,Anas Asim,30016,Asif Shahab,Night,1807,3,0,803,70211,492573
+1-Jul-25,Asif Shahab,1819,Asif Shahab,Night,1671,6,0,287,31145,712239
+1-Jul-25,Atir Abid,0,Asif Shahab,Night,1828,0,0,223,28084,0
+1-Jul-25,Ebad Ul Haque,2034,Asif Shahab,Night,1752,9,0,175,27568,403965
+1-Jul-25,Janeen Campbell,0,Asif Shahab,Night,-,1,0,0,0,0
+1-Jul-25,Aamir Ahmed,30204,Asif Shahab,Night,1659,2,0,189,24815,795864
+1-Jul-25,Omer Ansari,30037,Asif Shahab,Night,1559,20,0,40,6200,755071
+1-Jul-25,Salman Mubarak,30141,Asif Shahab,Night,1803,1,0,361,51892,54902
+1-Jul-25,Syed Abid Ali Shah,2123,Asif Shahab,Night,1873,2,0,329,35760,206284
+1-Jul-25,Abeeha Ali,2202,Atufa Arshad,Morning,1552,10,0,449,51223,742762
+1-Jul-25,Aqib Aqeel,2136,Atufa Arshad,Morning,1892,17,0,388,66543,1716256
+1-Jul-25,Azeem baig,2098,Atufa Arshad,Morning,1817,4,0,561,57124,799054
+1-Jul-25,Damral Pearl,0,Atufa Arshad,Morning,1512,0,0,814,91575,0
+1-Jul-25,Ghania Umer,30213,Atufa Arshad,Morning,1674,0,0,773,86787,0
+1-Jul-25,Huma Meer,2163,Atufa Arshad,Morning,1521,3,0,508,75574,719905
+1-Jul-25,Zoha Amir,30160,Atufa Arshad,Morning,1523,2,0,563,61735,86060
+1-Jul-25,Abdullah,2029,Daim Tariq,Night,1747,15,0,143,23160,1805559
+1-Jul-25,Ashhad Bin Saad,2141,Daim Tariq,Night,1900,1,0,532,83872,728565
+1-Jul-25,Hammad Nasar,30196,Daim Tariq,Night,1533,0,0,235,38394,0
+1-Jul-25,Hassan Ali,2139,Daim Tariq,Night,1895,10,0,71,8637,1322867
+1-Jul-25,Huzaifa Ali,30192,Daim Tariq,Night,1604,2,0,233,25036,201660
+1-Jul-25,Mir Faizan Ali,1982,Daim Tariq,Night,1701,9,0,122,18469,836698
+1-Jul-25,Moiz Ahmed Siddiqui,2016,Daim Tariq,Night,1733,13,0,132,9031,1764117
+1-Jul-25,Osama Khan,30008,Daim Tariq,Night,1519,4,0,154,16484,352465
+1-Jul-25,Muhammad Yasir Zaki,1989,Daim Tariq,Night,1706,11,0,154,19592,1252697
+1-Jul-25,Saim Kamran,0,Daim Tariq,Night,1682,0,0,323,26402,0
+1-Jul-25,Ahtesham,30203,Haris Ahmed,Night,1670,0,0,249,40921,0
+1-Jul-25,Arsalan Ahmed,30151,Haris Ahmed,Night,1928,0,0,538,51943,0
+1-Jul-25,Bilal Ahmed,1837,Haris Ahmed,Night,1694,4,0,54,23847,772181
+1-Jul-25,Shijaan Ali,2206,Haris Ahmed,Night,1887,0,0,35,5785,0
+1-Jul-25,Jabran Shamoon,2113,Haris Ahmed,Night,1851,4,0,117,20176,-200917
+1-Jul-25,Mirza Waseem,1844,Haris Ahmed,Night,1516,8,0,102,15364,563788
+1-Jul-25,Muhammad Aliyan Abid,30163,Haris Ahmed,Night,1587,0,0,536,54088,0
+1-Jul-25,Behroz Khan,30085,Haris Ahmed,Night,1570,3,0,61,13090,107352
+1-Jul-25,Shoaib Khan,30080,Haris Ahmed,Night,1574,4,0,47,12734,523448
+1-Jul-25,Sameer Arzan,0,Haris Ahmed,Night,1702,2,0,143,17503,149878
+1-Jul-25,Shehbaz Raza,30103,Kamran Siddiqui,Night,1532,0,0,154,11796,0
+1-Jul-25,Fatymah Iqbal,30193,Muhammad Hammad,Morning,1504,0,1,423,47250,0
+1-Jul-25,Joshua Schon,30106,Muhammad Hammad,Morning,1554,7,0,219,15769,1052463
+1-Jul-25,Maryam Siddiqui,1994,Muhammad Hammad,Morning,1711,15,0,48,5344,2196642
+1-Jul-25,Muhammad Shazain Khan,30095,Muhammad Hammad,Morning,1816,0,0,322,28101,0
+1-Jul-25,Mujtaba Hassan,0,Muhammad Hammad,Morning,1638,0,0,864,78192,0
+1-Jul-25,Shahzeb Ali Khan,2164,Muhammad Hammad,Morning,1710,2,0,537,45433,139933
+1-Jul-25,Syed Ashar Ali,0,Muhammad Hammad,Morning,1651,0,0,446,57825,0
+1-Jul-25,Ada Aziz,1840,Muhammad Khurshid Khan,Morning,1507,18,2,173,15402,871400
+1-Jul-25,Moazzam Ali,30206,Muhammad Khurshid Khan,Morning,1560,0,0,493,27355,0
+1-Jul-25,Mohsin Waheed,30031,Muhammad Khurshid Khan,Morning,1788,2,0,233,12833,386900
+1-Jul-25,Nehal Ahmed,30011,Muhammad Khurshid Khan,Morning,1540,22,3,197,13579,1145500
+1-Jul-25,Rana Shahbaz Tahir,30071,Muhammad Khurshid Khan,Morning,1530,6,0,979,70002,334000
+1-Jul-25,Shamiq Waseem,2154,Muhammad Khurshid Khan,Morning,1789,7,1,135,8116,609600
+1-Jul-25,Subaiyal Muhammad Aslam,30210,Muhammad Khurshid Khan,Morning,1853,0,0,435,43132,0
+1-Jul-25,Yassi Asif Raza,30207,Muhammad Khurshid Khan,Morning,1639,0,0,493,55083,0
+1-Jul-25,Affan Ahmed,0,Salman Rehmani,Morning,1558,0,0,247,40039,0
+1-Jul-25,Ahmed Raza 1579,30194,Salman Rehmani,Morning,1579,0,0,405,79863,0
+1-Jul-25,Haniyyah Faisal,0,Salman Rehmani,Morning,1703,3,0,447,69508,313696
+1-Jul-25,Misbah Khan,30188,Salman Rehmani,Morning,1509,3,0,90,9014,315341
+1-Jul-25,Haseeb Naushad,30051,Salman Rehmani,Morning,1561,0,0,853,96812,0
+1-Jul-25,Shayan Ansari,30179,Salman Rehmani,Morning,1529,4,0,139,16977,2379016
+1-Jul-25,Umar Bin Khalid,0,Salman Rehmani,Morning,1545,0,0,312,25725,0
+1-Jul-25,Muhammad Usman,30164,Asif Shahab,Night,1547,5,0,108,9843,2351420
+1-Aug-25,Anas Asim,30016,Asif Shahab,Night,1807,3,1,168,13888,369730
+1-Aug-25,Asif Shahab,1819,Asif Shahab,Night,1671,0,0,11,1701,0
+1-Aug-25,Atir Abid,0,Asif Shahab,Night,1828,0,0,112,18197,0
+1-Aug-25,Ebad Ul Haque,2034,Asif Shahab,Night,1752,0,1,37,6553,0
+1-Aug-25,Janeen Campbell,0,Asif Shahab,Night,-,0,0,0,0,0
+1-Aug-25,Aamir Ahmed,30204,Asif Shahab,Night,1659,0,2,22,2052,0
+1-Aug-25,Omer Ansari,30037,Asif Shahab,Night,1559,2,9,5,1826,90892
+1-Aug-25,Salman Mubarak,30141,Asif Shahab,Night,1803,0,0,97,10949,0
+1-Aug-25,Syed Abid Ali Shah,2123,Asif Shahab,Night,1873,2,0,110,9107,156762
+1-Aug-25,Abeeha Ali,2202,Atufa Arshad,Morning,1552,1,1,110,15649,17956
+1-Aug-25,Aqib Aqeel,2136,Atufa Arshad,Morning,1892,2,2,62,11802,0
+1-Aug-25,Azeem baig,2098,Atufa Arshad,Morning,1817,0,0,124,10754,0
+1-Aug-25,Damral Pearl,0,Atufa Arshad,Morning,1512,0,0,218,22760,0
+1-Aug-25,Ghania Umer,30213,Atufa Arshad,Morning,1674,0,0,172,12804,0
+1-Aug-25,Huma Meer,2163,Atufa Arshad,Morning,1521,0,0,155,17301,0
+1-Aug-25,Zoha Amir,30160,Atufa Arshad,Morning,1523,1,0,112,9118,0
+1-Aug-25,Abdullah,2029,Daim Tariq,Night,1747,4,5,13,1839,27046
+1-Aug-25,Ashhad Bin Saad,2141,Daim Tariq,Night,1900,0,0,80,13563,0
+1-Aug-25,Hammad Nasar,30196,Daim Tariq,Night,1533,0,0,61,11504,0
+1-Aug-25,Hassan Ali,2139,Daim Tariq,Night,1895,0,0,13,1410,0
+1-Aug-25,Huzaifa Ali,30192,Daim Tariq,Night,1604,0,0,49,7042,0
+1-Aug-25,Mir Faizan Ali,1982,Daim Tariq,Night,1701,1,0,57,6690,138447
+1-Aug-25,Moiz Ahmed Siddiqui,2016,Daim Tariq,Night,1733,0,0,31,2142,0
+1-Aug-25,Osama Khan,30008,Daim Tariq,Night,1519,1,0,13,2422,13295
+1-Aug-25,Muhammad Yasir Zaki,1989,Daim Tariq,Night,1706,1,2,24,2611,103062
+1-Aug-25,Saim Kamran,0,Daim Tariq,Night,1682,0,0,9,937,0
+1-Aug-25,Ahtesham,30203,Haris Ahmed,Night,1670,1,0,50,8467,112628
+1-Aug-25,Arsalan Ahmed,30151,Haris Ahmed,Night,1928,0,0,67,8516,0
+1-Aug-25,Bilal Ahmed,1837,Haris Ahmed,Night,1694,1,0,21,5464,431060
+1-Aug-25,Shijaan Ali,2206,Haris Ahmed,Night,1887,0,0,6,781,0
+1-Aug-25,Jabran Shamoon,2113,Haris Ahmed,Night,1851,0,1,51,6920,0
+1-Aug-25,Mirza Waseem,1844,Haris Ahmed,Night,1516,0,0,43,4659,0
+1-Aug-25,Muhammad Aliyan Abid,30163,Haris Ahmed,Night,1587,0,0,84,16034,0
+1-Aug-25,Behroz Khan,30085,Haris Ahmed,Night,1570,0,0,14,3579,0
+1-Aug-25,Shoaib Khan,30080,Haris Ahmed,Night,1574,0,2,12,1934,0
+1-Aug-25,Sameer Arzan,0,Haris Ahmed,Night,1702,0,1,86,9440,0
+1-Aug-25,Shehbaz Raza,30103,Kamran Siddiqui,Night,1532,0,0,45,3346,0
+1-Aug-25,Fatymah Iqbal,30193,Muhammad Hammad,Morning,1504,0,0,86,7454,0
+1-Aug-25,Joshua Schon,30106,Muhammad Hammad,Morning,1554,0,0,48,3977,0
+1-Aug-25,Maryam Siddiqui,1994,Muhammad Hammad,Morning,1711,2,1,20,4223,180375
+1-Aug-25,Muhammad Shazain Khan,30095,Muhammad Hammad,Morning,1816,0,0,95,6762,0
+1-Aug-25,Mujtaba Hassan,0,Muhammad Hammad,Morning,1638,0,0,100,10417,0
+1-Aug-25,Shahzeb Ali Khan,2164,Muhammad Hammad,Morning,1710,0,0,124,13107,0
+1-Aug-25,Syed Ashar Ali,0,Muhammad Hammad,Morning,1651,0,0,89,8798,0
+1-Aug-25,Ada Aziz,1840,Muhammad Khurshid Khan,Morning,1507,1,6,35,4960,64500
+1-Aug-25,Moazzam Ali,30206,Muhammad Khurshid Khan,Morning,1560,0,0,51,2781,0
+1-Aug-25,Mohsin Waheed,30031,Muhammad Khurshid Khan,Morning,1788,1,0,147,8813,142500
+1-Aug-25,Nehal Ahmed,30011,Muhammad Khurshid Khan,Morning,1540,0,1,124,8719,0
+1-Aug-25,Rana Shahbaz Tahir,30071,Muhammad Khurshid Khan,Morning,1530,0,1,399,30472,0
+1-Aug-25,Shamiq Waseem,2154,Muhammad Khurshid Khan,Morning,1789,6,4,120,7859,1604500
+1-Aug-25,Subaiyal Muhammad Aslam,30210,Muhammad Khurshid Khan,Morning,1853,0,0,53,6162,0
+1-Aug-25,Yassi Asif Raza,30207,Muhammad Khurshid Khan,Morning,1639,0,0,94,10129,0
+1-Aug-25,Affan Ahmed,0,Salman Rehmani,Morning,1558,0,1,101,12905,0
+1-Aug-25,Ahmed Raza 1579,30194,Salman Rehmani,Morning,1579,0,0,0,0,0
+1-Aug-25,Haniyyah Faisal,0,Salman Rehmani,Morning,1703,0,0,90,12797,0
+1-Aug-25,Misbah Khan,30188,Salman Rehmani,Morning,1509,0,3,3,468,0
+1-Aug-25,Haseeb Naushad,30051,Salman Rehmani,Morning,1561,0,0,153,16323,0
+1-Aug-25,Shayan Ansari,30179,Salman Rehmani,Morning,1529,0,0,29,2407,0
+1-Aug-25,Umar Bin Khalid,0,Salman Rehmani,Morning,1545,0,0,102,5910,0
+1-Aug-25,Muhammad Usman,30164,Asif Shahab,Night,1547,3,0,12,1292,-51088
